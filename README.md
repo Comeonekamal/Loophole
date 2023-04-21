@@ -1,9 +1,9 @@
 # ***Loophole***
 
-#### A Python script meant to help with aquiring a permanent download link from Onedrive videos
-![Animated GIF of Loophole being used to create a link](examples/Loophole_example.gif)
+#### A Python script meant to help with aquiring a permanent download link from Onedrive videos.
 
-<br/>
+<br/>![Loophole_Example](https://user-images.githubusercontent.com/94018564/233683319-e35cfd37-20fb-43ea-9d44-5fb6308f8827.gif)
+
 
 # **Purpose**:
 #### This script is meant to streamline the use of Onedrive in Coolhole allowing users to avoid Google Drive for custom content.
