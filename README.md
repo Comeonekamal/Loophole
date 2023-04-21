@@ -31,4 +31,6 @@
 #### 3) The program should output the "permanant link" to add to coolhole. It shouldn't take more than 10 seconds.
   <sub> *You can also send you link to others for a direct download as well.*</sub>
 
+---
 
+> The following code uses has an MIT License, Playwright is owned by Microsoft and his its respective license
