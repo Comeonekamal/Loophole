@@ -10,3 +10,5 @@ Generates a permanent download link for use in Coolhole.
 * Once it's finished your new link to paste into the queue will be ready.
 * You can convert as many links as you want
 * Once finished converting links you can click the button in the lower right to save to a text file.
+
+![Image of the loophole interface with converted links](https://i.ibb.co/x6n82yK/Loophole-24-Aug-23-9-47-41-PM.png)
