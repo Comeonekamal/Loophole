@@ -1,5 +1,4 @@
 ![Loophole banner](https://i.ibb.co/kXcvVcq/loophole-0-5x.png)
-Generates a permanent download link for use in Coolhole.
 
 #Install
 * Download either the .exe or .zip(recommended)
